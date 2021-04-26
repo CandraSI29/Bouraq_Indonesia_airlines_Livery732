@@ -1,3 +1,3 @@
 # FG-Liveries
-liveries for FG
+liveries for FG,
 making liveries for flightgear
